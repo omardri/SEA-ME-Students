@@ -45,10 +45,6 @@ int main(int argc, char* argv[]) {
         return 0;
     }
     std::cout << argv[2] << std::endl;
-    std::cout << 3 % 2 << std::endl;
-    std::cout << 10 % 2 << std::endl;
-    std::cout << 1 % 2 << std::endl;
-    std::cout << 97 % 10 << std::endl;
-    std::cout << 2 % 5 << std::endl;
+
     return 0;
 }
